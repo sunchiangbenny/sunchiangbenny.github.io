@@ -1,12 +1,13 @@
 body{
      background-color: black;
-
+     padding-top:190px;
 }
 h1{
 	 font-size: 40px;
 	 color:white;
 	 font-style: italic;
 	 text-align:center;
+     border-style: solid;
 }
 h2{
 	 color:white;
@@ -15,10 +16,17 @@ h2{
 
 }
 h3{
-	color:white;
-	font-size: 30px;
-	text-align:center;
+     color:white;
+	 font-size: 30px;
+	 text-align:center;
 }
 p{
-	text-align:center;
+	 text-align:center;
+}
+div{
+	 text-align:center;
+}
+h5{
+	 color:red;
+	 font-size: 30px;
 }
